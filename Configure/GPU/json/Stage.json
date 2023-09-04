@@ -1,0 +1,14 @@
+[
+    {
+        "name": "GPU Stage",
+        "hex": "02"
+    },
+    {
+        "name": "GPU Base",
+        "hex": "01"
+    },
+    {
+        "name": "GPU Overvolt",
+        "hex": "00"
+    }
+]

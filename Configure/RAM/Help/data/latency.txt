@@ -1,0 +1,10 @@
+Values are : WL - RL
+
+Latency Decrement: A reduction in memory latency, which leads to faster data access and improved overall system performance.
+
+0: 2131Mhz Latency bracket for AUTO_ADJ, Do Not Adjust for CUST_ADJ
+1: 1862Mhz Latency
+2: 1600Mhz Latency
+3: 1331Mhz Latency
+
+The higher - the better, but might affect stability.
