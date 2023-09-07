@@ -1,6 +1,6 @@
 [
     {
-        "name": "0",
+        "name": "0 - Do not adjust",
         "hex": "00"
     },
     {
@@ -24,7 +24,7 @@
         "hex": "05"
     },
     {
-        "name": "6 - Base",
+        "name": "6",
         "hex": "06"
     }
 ]
