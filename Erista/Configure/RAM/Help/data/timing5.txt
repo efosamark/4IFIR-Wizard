@@ -1,0 +1,15 @@
+Values are: tWTR 
+
+tWTR (Write to Read Delay): Minimum time between a write operation and a subsequent read operation to different memory banks, ensuring data integrity and system stability.
+
+Secondary timings complement primary RAM settings for fine-tuning memory performance. They include parameters like tRFC, tWR, and tFAW, crucial for optimizing RAM efficiency and stability.
+
+0: Do Not Adjust (2400Mhz: ??) (CUST_ADJ only)
+1: 10 (Default timing)
+2: 8
+3: 6
+4: 4
+5: 2
+6: 1
+
+The higher - the better, but might affect stability.

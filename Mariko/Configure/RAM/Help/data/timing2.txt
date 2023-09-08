@@ -1,0 +1,16 @@
+Values are: tRRD - tFAW
+
+tRRD (Row-to-Row Delay): Sets the minimum delay between activating two consecutive rows in the same memory bank.
+
+tFAW (Four Activate Window): Defines the minimum time needed to activate four different rows in the same bank, managing multiple memory access requests effectively.
+
+Secondary timings complement primary RAM settings for fine-tuning memory performance. They include parameters like tRFC, tWR, and tFAW, crucial for optimizing RAM efficiency and stability.
+
+0 : Do Not Adjust (2400Mhz: 6.6 - 26.6) (CUST_ADJ only)
+1 : 10 - 40 (Default timing) (3733 specs)
+2 : 7.5 - 30 (4266 specs)
+3 : 6 - 24
+4 : 4 - 16
+5 : 3 - 12
+
+The higher - the better, but might affect stability.

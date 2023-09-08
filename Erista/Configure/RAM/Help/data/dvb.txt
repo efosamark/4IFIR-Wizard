@@ -1,0 +1,3 @@
+An EMC DVB Table is a data table used in digital video broadcasting (DVB) systems to ensure electromagnetic compatibility (EMC).
+
+Increase to increase stability at higher memory clock at the cost of performance.
