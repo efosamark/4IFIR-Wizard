@@ -4,4 +4,4 @@ It offers automatic current values detection, extensive help information, and pr
 
 Whether you're a novice or an enthusiast, it simplifies the overclocking process for better performance.
 
-This is the version for V1 consoles.
+This is the version for 4IFIR 1.7 for V1/Erista consoles.
