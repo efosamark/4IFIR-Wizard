@@ -7,7 +7,7 @@
     },
     {
         "name": "Restore Backup",
-        "dir": "/atmosphere/kips/.current/",
+        "dir": "",
         "from": "/atmosphere/kips/.bak/loader_backup.kip",
         "to": "/atmosphere/kips/loader.kip"
     },
