@@ -1,26 +1,26 @@
 [
     {
-        "name": "550mV - Danger",
+        "name": "550mV - Unstable",
         "hex": "706408"
     },
     {
-        "name": "560mV - Danger",
+        "name": "560mV - Unstable",
         "hex": "808B08"
     },
     {
-        "name": "570mV - Danger",
+        "name": "570mV - Unstable",
         "hex": "90B208"
     },
     {
-        "name": "580mV - Unsafe",
+        "name": "580mV - Unstable",
         "hex": "A0D908"
     },
     {
-        "name": "590mV - Unsafe",
+        "name": "590mV - Unstable",
         "hex": "B00009"
     },
     {
-        "name": "600mV - Unsafe",
+        "name": "600mV - Unstable",
         "hex": "C02709"
     },
     {
