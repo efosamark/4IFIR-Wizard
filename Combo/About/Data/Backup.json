@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Create Backup",
+        "dir": "/backup/kips/",
+        "from": "/atmosphere/kips/loader.kip",
+        "to": "/backup/kips/loader_backup.kip"
+    },
+    {
+        "name": "Restore Backup",
+        "dir": "",
+        "from": "/backup/kips/loader_backup.kip",
+        "to": "/atmosphere/kips/loader.kip"
+    },
+    {
+        "name": "Delete Backup",
+        "dir": "/backup/kips/",
+        "from": "",
+        "to": ""
+    }
+]
