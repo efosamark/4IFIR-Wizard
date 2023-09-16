@@ -24,13 +24,13 @@
 	{
 		"name": "RAM Vddq",
 		"offset": "36",
-		"length": "4",
+		"length": "3",
 		"extent": "mV"
 	},
 	{
 		"name": "RAM Vdd2",
 		"offset": "16",
-		"length": "3",
+		"length": "4",
 		"extent": "mV"
 	},
 	{
