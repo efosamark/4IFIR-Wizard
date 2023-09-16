@@ -19,7 +19,7 @@
 	{
 		"name": "RAM Vdd2",
 		"offset": "16",
-		"length": "3",
+		"length": "4",
 		"extent": "mV"
 	},
 	{

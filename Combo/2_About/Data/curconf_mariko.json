@@ -24,7 +24,7 @@
 	{
 		"name": "RAM Vddq",
 		"offset": "36",
-		"length": "3",
+		"length": "4",
 		"extent": "mV"
 	},
 	{
