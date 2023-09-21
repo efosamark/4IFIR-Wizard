@@ -1,135 +1,146 @@
 [
     {
-        "name": "2331MHz - Erista",
-        "hex": "409223"
+        "name": "2323MHz",
+        "hex": "007323"
     },
     {
-        "name": "2350MHz",
-        "hex": "40DD23"
+        "name": "2342MHz",
+        "hex": "00BE23"
     },
     {
-        "name": "2369MHz",
-        "hex": "402824"
+        "name": "2361MHz",
+        "hex": "000924"
     },
     {
-        "name": "2388MHz",
-        "hex": "407324"
+        "name": "2380MHz",
+        "hex": "005424"
     },
     {
-        "name": "2408MHz",
-        "hex": "40BE24"
+        "name": "2400MHz",
+        "hex": "009F24"
     },
     {
-        "name": "2427MHz",
-        "hex": "400925"
+        "name": "2419MHz",
+        "hex": "00EA24"
     },
     {
-        "name": "2446MHz",
-        "hex": "405425"
+        "name": "2438MHz",
+        "hex": "003525"
     },
     {
-        "name": "2465MHz",
-        "hex": "409F25"
+        "name": "2457MHz",
+        "hex": "008025"
     },
     {
-        "name": "2484MHz",
-        "hex": "40EA25"
+        "name": "2476MHz",
+        "hex": "00CB25"
     },
     {
-        "name": "2500MHz - Base",
-        "hex": "A02526"
+        "name": "2496MHz",
+        "hex": "001626"
     },
     {
-        "name": "2504MHz",
-        "hex": "403526"
+        "name": "2515MHz",
+        "hex": "006126"
     },
     {
-        "name": "2523MHz",
-        "hex": "408026"
+        "name": "2534MHz",
+        "hex": "00AC26"
     },
     {
-        "name": "2542MHz",
-        "hex": "40CB26"
+        "name": "2553MHz",
+        "hex": "00F726"
     },
     {
-        "name": "2561MHz",
-        "hex": "401627"
+        "name": "2572MHz",
+        "hex": "004227"
     },
     {
-        "name": "2580MHz",
-        "hex": "406127"
+        "name": "2592MHz",
+        "hex": "008D27"
     },
     {
-        "name": "2600MHz - ST9 | ST9+",
-        "hex": "40AC27"
+        "name": "2611MHz",
+        "hex": "00D827"
     },
     {
-        "name": "2619MHz",
-        "hex": "40F727"
+        "name": "2630MHz",
+        "hex": "002328"
     },
     {
-        "name": "2638MHz",
-        "hex": "404228"
+        "name": "2649MHz",
+        "hex": "006E28"
     },
     {
-        "name": "2657MHz",
-        "hex": "408D28"
+        "name": "2668MHz",
+        "hex": "00B928"
     },
     {
-        "name": "2676MHz",
-        "hex": "40D828"
+        "name": "2688MHz",
+        "hex": "000429"
     },
     {
-        "name": "2696MHz",
-        "hex": "402329"
+        "name": "2707MHz",
+        "hex": "004F29"
     },
     {
-        "name": "2700MHz",
-        "hex": "E03229"
+        "name": "2726MHz",
+        "hex": "009A29"
     },
     {
-        "name": "2715MHz",
-        "hex": "406E29"
+        "name": "2745MHz",
+        "hex": "00E529"
     },
     {
-        "name": "2734MHz",
-        "hex": "40B929"
+        "name": "2764MHz",
+        "hex": "00302A"
     },
     {
-        "name": "2753MHz",
-        "hex": "40042A"
+        "name": "2784MHz",
+        "hex": "007B2A"
     },
     {
-        "name": "2772MHz",
-        "hex": "404F2A"
+        "name": "2803MHz",
+        "hex": "00C62A"
     },
     {
-        "name": "2792MHz",
-        "hex": "409A2A"
+        "name": "2822MHz",
+        "hex": "00112B"
     },
     {
-        "name": "2811MHz",
-        "hex": "40E52A"
+        "name": "2841MHz",
+        "hex": "005C2B"
     },
     {
-        "name": "2830MHz",
-        "hex": "40302B"
+        "name": "2860MHz",
+        "hex": "00A72B"
     },
     {
-        "name": "2849MHz",
-        "hex": "407B2B"
+        "name": "2880MHz",
+        "hex": "00F22B"
     },
     {
-        "name": "2868MHz",
-        "hex": "40C62B"
+        "name": "2899MHz",
+        "hex": "003D2C"
     },
     {
-        "name": "2888MHz",
-        "hex": "40112C"
+        "name": "2918MHz",
+        "hex": "00882C"
     },
     {
-        "name": "2907MHz - Unstable",
-        "hex": "405C2C",
-        "color": "Orange"
+        "name": "2937MHz",
+        "hex": "00D32C"
+    },
+    {
+        "name": "2956MHz",
+        "hex": "001E2D"
+    },
+    {
+        "name": "2976MHz",
+        "hex": "00692D"
+    },
+    {
+        "name": "2995MHz",
+        "hex": "00B42D"
     }
 ]
