@@ -11,11 +11,6 @@
 		"length": "1"
 	},
 	{
-		"name": "GPU Undervolt Mode",
-		"offset": "44",
-		"length": "1"
-	},
-	{
 		"name": "RAM MHz",
 		"offset": "32",
 		"length": "4",
@@ -48,6 +43,11 @@
 		"state": "filler"
 	},
 	{
+		"name": "GPU Undervolt Mode",
+		"offset": "44",
+		"length": "1"
+	},
+	{
 		"name": "230-460MHz",
 		"offset": "8864",
 		"length": "3",
@@ -69,8 +69,23 @@
 		"default": "1"
 	},
 	{
+		"name": "1075MHz",
+		"offset": "9536",
+		"length": "3",
+		"extent": "mV",
+		"default": "1"
+	},
+	{
 		"name": "844MHz",
 		"offset": "9312",
+		"length": "3",
+		"extent": "mV",
+		"state": "no_skip",
+		"default": "1"
+	},
+	{
+		"name": "1152MHz",
+		"offset": "9592",
 		"length": "3",
 		"extent": "mV",
 		"default": "1"
@@ -84,36 +99,6 @@
 		"default": "1"
 	},
 	{
-		"name": "921MHz",
-		"offset": "9424",
-		"length": "3",
-		"extent": "mV",
-		"default": "1"
-	},
-	{
-		"name": "998MHz",
-		"offset": "9480",
-		"length": "3",
-		"extent": "mV",
-		"state": "no_skip",
-		"default": "1"
-	},
-	{
-		"name": "1075MHz",
-		"offset": "9536",
-		"length": "3",
-		"extent": "mV",
-		"default": "1"
-	},
-	{
-		"name": "1152MHz",
-		"offset": "9592",
-		"length": "3",
-		"extent": "mV",
-		"state": "no_skip",
-		"default": "1"
-	},
-	{
 		"name": "1228MHz",
 		"offset": "9648",
 		"length": "3",
@@ -121,8 +106,23 @@
 		"default": "1"
 	},
 	{
+		"name": "921MHz",
+		"offset": "9424",
+		"length": "3",
+		"extent": "mV",
+		"state": "no_skip",
+		"default": "1"
+	},
+	{
 		"name": "1267MHz",
 		"offset": "9704",
+		"length": "3",
+		"extent": "mV",
+		"default": "1"
+	},
+	{
+		"name": "998MHz",
+		"offset": "9480",
 		"length": "3",
 		"extent": "mV",
 		"state": "no_skip",
