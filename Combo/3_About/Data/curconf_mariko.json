@@ -10,13 +10,8 @@
 		"extent": "mV"
 	},
 	{
-		"name": "Low MHz Undervolt Mode",
+		"name": "CPU Priority Mode",
 		"offset": "40",
-		"length": "1"
-	},
-	{
-		"name": "High MHz Undervolt Mode",
-		"offset": "72",
 		"length": "1"
 	},
 	{
