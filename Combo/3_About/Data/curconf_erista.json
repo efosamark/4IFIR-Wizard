@@ -1,5 +1,9 @@
 [
 	{
+		"name": "======== CPU Settings ========",
+		"state": "filler"
+	},
+	{
 		"name": "CPU Voltage Limit",
 		"offset": "20",
 		"length": "4",
@@ -9,6 +13,10 @@
 		"name": "CPU Priority Mode",
 		"offset": "40",
 		"length": "1"
+	},
+	{
+		"name": "======== RAM Settings ========",
+		"state": "filler"
 	},
 	{
 		"name": "RAM MHz",
@@ -33,7 +41,7 @@
 		"length": "1"
 	},
 	{
-		"name": "GPU Settings:",
+		"name": "======== GPU Settings ========",
 		"state": "filler"
 	},
 	{
