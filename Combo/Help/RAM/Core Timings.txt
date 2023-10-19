@@ -3,6 +3,13 @@ Core Timings do not affect each other.
 
 Tune each parameter individually to achieve maximum stable performance.
 
+Recomended settings for different RAM models are tagged with the model name:
+
+HYN  - Hynix (all models)
+MGCJ - Samsung K4U6E3S4AM-MGCJ
+MGCL - Samsung K4U6E3S4AA-MGCL
+MGCH - Samsung K4F6E304HB-MGCH
+
 You may see a notation like this:
 
 3-6-6-5-3 or 36653

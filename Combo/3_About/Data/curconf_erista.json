@@ -40,7 +40,8 @@
 		"name": "230-614MHz",
 		"offset": "5392",
 		"length": "3",
-		"extent": "mV"
+		"extent": "mV",
+		"default" : "1"
 	},
 	{
 		"name": "690MHz",

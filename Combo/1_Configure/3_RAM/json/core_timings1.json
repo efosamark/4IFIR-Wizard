@@ -4,15 +4,15 @@
         "hex": "00"
     },
     {
-        "name": "1 - Base",
+        "name": "1",
         "hex": "01"
     },
     {
-        "name": "2",
+        "name": "2 - HYN",
         "hex": "02"
     },
     {
-        "name": "3",
+        "name": "3 - MGCJ",
         "hex": "03"
     },
     {
@@ -20,11 +20,11 @@
         "hex": "04"
     },
     {
-        "name": "5",
+        "name": "5 - MGCL",
         "hex": "05"
     },
     {
-        "name": "6",
+        "name": "6 - MGCH",
         "hex": "06"
     }
 ]

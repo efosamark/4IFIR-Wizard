@@ -8,19 +8,19 @@
         "hex": "01"
     },
     {
-        "name": "2",
+        "name": "2 - MGCH",
         "hex": "02"
     },
     {
-        "name": "3 - Base",
+        "name": "3 - HYN",
         "hex": "03"
     },
     {
-        "name": "4",
+        "name": "4 - MGCJ",
         "hex": "04"
     },
     {
-        "name": "5",
+        "name": "5 - MGCL",
         "hex": "05"
     }
 ]
