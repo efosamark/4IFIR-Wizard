@@ -1,0 +1,41 @@
+[
+    {
+        "name": "0 - Base undervolting",
+        "hex": "00"
+    },
+    {
+        "name": "1",
+        "hex": "01",
+        "color": "Orange"
+    },
+    {
+        "name": "2",
+        "hex": "02",
+        "color": "Orange"
+    },
+    {
+        "name": "3",
+        "hex": "03",
+        "color": "Orange"
+    },
+    {
+        "name": "4",
+        "hex": "04",
+        "color": "Orange"
+    },
+    {
+        "name": "5",
+        "hex": "05",
+        "color": "Orange"
+    },
+    {
+        "name": "6",
+        "hex": "06",
+        "color": "Orange"
+    },
+    {
+        "name": "7",
+        "hex": "07",
+        "color": "Orange"
+    }
+]

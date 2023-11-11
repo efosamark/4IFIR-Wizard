@@ -1,0 +1,21 @@
+[
+    {
+        "name": "`RAM DVB Mode"
+    },
+    {
+        "name": "Auto",
+        "hex": "3"
+    },
+    {
+        "name": "ECO Stage 1",
+        "hex": "2"
+    },
+    {
+        "name": "ECO Stage 2",
+        "hex": "1"
+    },
+    {
+        "name": "ECO Stage 3",
+        "hex": "0"
+    }
+]

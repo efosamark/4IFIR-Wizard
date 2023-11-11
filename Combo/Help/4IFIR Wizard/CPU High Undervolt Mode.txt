@@ -1,0 +1,8 @@
+This setting contols the Undervolt logic in 4IFIR for frequencies 16XX MHz and higher.
+
+The higher the Stage - the less power is used to achive the target frequency.
+
+To test the stability:
+1. Set the maximum available CPU frequency.
+2. Turn off the Governor (4IFIR RatTest -> Miscellaneous -> Frequency Governor).
+3. Run some games.

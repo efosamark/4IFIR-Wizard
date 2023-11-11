@@ -1,0 +1,13 @@
+Welcome to Full Assist.
+
+This parameter controls the RAM frequency of the 4IFIR Maximized option.
+
+Different modes exist for different scenarious: 
+
+ECO - Light handheld gaming
+Default - Handheld gaming in 60 FPS
+SPORT - Heavy games or gaming in docked mode
+
+To test this setting - select 4IFIR Maximized in 4IFIR RedRat and play some games.
+
+If you see artifacts or glitches - come back and lower the setting.

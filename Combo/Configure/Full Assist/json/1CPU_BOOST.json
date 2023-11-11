@@ -1,0 +1,21 @@
+[
+    {
+        "name": "`CPU Boost Mode"
+    },
+    {
+        "name": "Stage ECO - Debug",
+        "hex": "C81F18"
+    },
+    {
+        "name": "Stage 1",
+        "hex": "A83C1B"
+    },
+    {
+        "name": "Stage 2",
+        "hex": "489324"
+    },
+    {
+        "name": "Stage 3",
+        "hex": "E8E92D"
+    }
+]

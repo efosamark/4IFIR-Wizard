@@ -1,0 +1,43 @@
+[
+    {
+        "name": "`ECO Modes"
+    },
+    {
+        "name": "E Stage 1",
+        "hex": "00841C"
+    },
+    {
+        "name": "E Stage 2",
+        "hex": "00781E"
+    },
+    {
+        "name": "E Stage 3",
+        "hex": "008520"
+    },
+    {
+        "name": "`Default Modes"
+    },
+    {
+        "name": "D Stage 1",
+        "hex": "009222"
+    },
+    {
+        "name": "D Stage 2",
+        "hex": "009F24"
+    },
+    {
+        "name": "D Stage 3",
+        "hex": "00AC26"
+    },
+    {
+        "name": "`Sport Modes"
+    },
+    {
+        "name": "S Stage 1",
+        "hex": "80AC28"
+    },
+    {
+        "name": "S Stage 2",
+        "hex": "00C62A"
+    }
+]

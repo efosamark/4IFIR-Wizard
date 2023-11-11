@@ -1,0 +1,5 @@
+This setting controls the voltage for RAM.
+
+The higher the setting - the less power will be consumed by the RAM.
+
+To test the stability - set RAM to 4IFIR Maximized and play some games.

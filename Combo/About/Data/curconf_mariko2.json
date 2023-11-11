@@ -1,0 +1,174 @@
+[
+	{
+		"name": "======= GPU Voltage Table ========",
+		"state": "filler"
+	},
+	{
+		"name": "",
+		"state": "filler"
+	},
+	{
+        "name": "192mV",
+        "offset": "8896",
+        "length": "4",
+        "extent": "mV",
+        "state": "no_skip"
+    },
+    {
+        "name": "1075mV",
+        "offset": "9568",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "230mV",
+        "offset": "8952",
+        "length": "4",
+        "extent": "mV",
+        "state": "no_skip"
+    },
+    {
+        "name": "1152mV",
+        "offset": "9624",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "307mV",
+        "offset": "9008",
+        "length": "4",
+        "extent": "mV",
+        "state": "no_skip"
+    },
+    {
+        "name": "1228mV",
+        "offset": "9680",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "384mV",
+        "offset": "9064",
+        "length": "4",
+        "extent": "mV",
+        "state": "no_skip"
+    },
+    {
+        "name": "1305mV",
+        "offset": "9736",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "460mV",
+        "offset": "9120",
+        "length": "4",
+        "extent": "mV",
+        "state": "no_skip"
+    },
+    {
+        "name": "1344mV",
+        "offset": "9792",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "537mV",
+        "offset": "9176",
+        "length": "4",
+        "extent": "mV",
+        "state": "no_skip"
+    },
+    {
+        "name": "1382mV",
+        "offset": "9848",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "614mV",
+        "offset": "9232",
+        "length": "4",
+        "extent": "mV",
+        "state": "no_skip"
+    },
+    {
+        "name": "1420mV",
+        "offset": "9904",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "691mV",
+        "offset": "9288",
+        "length": "4",
+        "extent": "mV",
+        "state": "no_skip"
+    },
+    {
+        "name": "1459mV",
+        "offset": "9960",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "768mV",
+        "offset": "9344",
+        "length": "4",
+        "extent": "mV",
+        "state": "no_skip"
+    },
+    {
+        "name": "1497mV",
+        "offset": "10016",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "844mV",
+        "offset": "9400",
+        "length": "4",
+        "extent": "mV",
+        "state": "no_skip"
+    },
+    {
+        "name": "1536mV",
+        "offset": "10072",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "921mV",
+        "offset": "9456",
+        "length": "4",
+        "extent": "mV",
+        "state": "no_skip"
+    },
+    {
+        "name": "1574mV",
+        "offset": "10128",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "998mV",
+        "offset": "9512",
+        "length": "4",
+        "extent": "mV",
+        "state": "no_skip"
+    },
+    {
+        "name": "1612mV",
+        "offset": "10184",
+        "length": "4",
+        "extent": "mV"
+    },
+	{
+		"name": "",
+		"state": "filler"
+	},
+	{
+		"name": "==================================",
+		"state": "filler"
+	}
+]
