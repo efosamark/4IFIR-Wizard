@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Kip Version",
+		"name": "                  Kip Version",
 		"offset": "4",
-		"offset": "3"
+		"length": "3"
 	},
 	{
 		"name": "",
