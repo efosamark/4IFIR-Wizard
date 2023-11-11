@@ -1,0 +1,21 @@
+[
+    {
+        "name": "`CPU Under Mode"
+    },
+    {
+        "name": "Default",
+        "hex": "6C02"
+    },
+    {
+        "name": "E Stage 1",
+        "hex": "4E02"
+    },
+    {
+        "name": "E Stage 2 - For RAM Mode E/D",
+        "hex": "3002"
+    },
+    {
+        "name": "E Stage 3 - For RAM Mode E",
+        "hex": "1202"
+    }
+]

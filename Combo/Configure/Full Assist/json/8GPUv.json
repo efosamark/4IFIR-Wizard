@@ -1,0 +1,17 @@
+[
+    {
+        "name": "`GPU Under Mode"
+    },
+    {
+        "name": "ECO Stage 1",
+        "hex": "03"
+    },
+    {
+        "name": "ECO Stage 2",
+        "hex": "02"
+    },
+    {
+        "name": "ECO Stage 3",
+        "hex": "01"
+    }
+]

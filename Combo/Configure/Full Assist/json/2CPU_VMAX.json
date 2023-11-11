@@ -1,0 +1,21 @@
+[
+    {
+        "name": "`CPU VMAX Mode"
+    },
+    {
+        "name": "ECO",
+        "hex": "7E0400"
+    },
+    {
+        "name": "Stage 1",
+        "hex": "9C0400"
+    },
+    {
+        "name": "Stage 2",
+        "hex": "B50400"
+    },
+    {
+        "name": "Stage 3",
+        "hex": "D80400"
+    }
+]

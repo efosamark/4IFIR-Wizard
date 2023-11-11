@@ -1,0 +1,17 @@
+[
+    {
+        "name": "`GPU Over Mode"
+    },
+    {
+        "name": "ECO",
+        "hex": "8403"
+    },
+    {
+        "name": "Default",
+        "hex": "E803"
+    },
+    {
+        "name": "SPORT",
+        "hex": "4C04"
+    }
+]

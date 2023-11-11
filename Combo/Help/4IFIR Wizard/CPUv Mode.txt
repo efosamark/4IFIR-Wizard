@@ -1,0 +1,5 @@
+The CPUv Mode controls the lowest voltage available for CPU underclocking.
+
+The higher the Stage - the lower the minimal CPU voltage used by the system.
+
+To test this setting - play some games.

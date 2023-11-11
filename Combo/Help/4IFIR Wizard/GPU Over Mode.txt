@@ -1,0 +1,7 @@
+This setting contols the power distribution across the GPU frequencies.
+
+The higher the Stage - the more GPU frequencies will be available for use.
+
+ECO - up to 900 MHz
+Default - up to 1000 Mhz
+SPORT - up to 1100 Mhz

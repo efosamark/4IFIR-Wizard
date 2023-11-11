@@ -1,0 +1,21 @@
+[
+    {
+        "name": "`RAM EMV Mode"
+    },
+    {
+        "name": "Auto",
+        "hex": "03"
+    },
+    {
+        "name": "ECO Stage 1",
+        "hex": "02"
+    },
+    {
+        "name": "ECO Stage 2",
+        "hex": "01"
+    },
+    {
+        "name": "ECO Stage 3",
+        "hex": "00"
+    }
+]

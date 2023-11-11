@@ -1,0 +1,3 @@
+The GPUv Mode allows for automatic adjustments of GPU voltages based on the current RAM frequency.
+
+The higher the Stage - the lower the minimal CPU voltage used by the system.

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Low",
+        "hex": "01"
+    },
+    {
+        "name": "Medium",
+        "hex": "03"
+    },
+    {
+        "name": "High",
+        "hex": "05"
+    }
+]

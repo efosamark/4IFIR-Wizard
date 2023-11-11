@@ -1,0 +1,21 @@
+[
+    {
+        "name": "`CPU-HI Eco Mode"
+    },
+    {
+        "name": "Default",
+        "hex": "00"
+    },
+    {
+        "name": "ECO Stage 1",
+        "hex": "01"
+    },
+    {
+        "name": "ECO Stage 2",
+        "hex": "03"
+    },
+    {
+        "name": "ECO Stage 3",
+        "hex": "05"
+    }
+]
