@@ -41,12 +41,12 @@
 		"extent": " MHz"
 	},
 	{
-		"name": "Low  MHz Undervolt Mode",
+		"name": "Low MHz Undervolt Mode",
 		"offset": "12340",
 		"length": "1"
 	},
 	{
-		"name": "High  MHz Undervolt Mode",
+		"name": "High MHz Undervolt Mode",
 		"offset": "80",
 		"length": "1"
 	},
@@ -63,7 +63,7 @@
 		"state": "filler"
 	},
 	{
-		"name": "RAM  MHz",
+		"name": "RAM MHz",
 		"offset": "32",
 		"length": "4",
 		"extent": " MHz"
@@ -83,7 +83,8 @@
 	{
 		"name": "EMC DVB Mode",
 		"offset": "56",
-		"length": "1"
+		"length": "4",
+		"extent": " mV"
 	},
 	{
 		"name": "Core Timings",
