@@ -4,14 +4,14 @@
     },
     {
         "name": "ECO Stage 1",
-        "hex": "03"
+        "hex": "030000"
     },
     {
         "name": "ECO Stage 2",
-        "hex": "02"
+        "hex": "020000"
     },
     {
         "name": "ECO Stage 3",
-        "hex": "01"
+        "hex": "010000"
     }
 ]
