@@ -28,7 +28,7 @@
 		"state": "filler"
 	},
 	{
-		"name": "RAM   MHz",
+		"name": "RAM MHz",
 		"offset": "24",
 		"length": "4",
 		"extent": " MHz"
