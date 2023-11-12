@@ -42,12 +42,12 @@
 	},
 	{
 		"name": "Low MHz Undervolt Mode",
-		"offset": "12340",
+		"offset": "40",
 		"length": "1"
 	},
 	{
 		"name": "High MHz Undervolt Mode",
-		"offset": "80",
+		"offset": "12340",
 		"length": "1"
 	},
 	{
