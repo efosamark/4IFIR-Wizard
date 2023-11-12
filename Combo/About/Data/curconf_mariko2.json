@@ -1,5 +1,10 @@
 [
 	{
+		"name": "TABLE_BASE",
+		"base": "88,7160,8896,10632",
+        "base_increment": "4,56,56,56"
+	},
+	{
 		"name": "======= GPU Voltage Table ========",
 		"state": "filler"
 	},
@@ -9,157 +14,157 @@
 	},
 	{
         "name": "192mV",
-        "offset": "8896",
+        "offset": "0",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
         "name": "1075mV",
-        "offset": "9568",
+        "offset": "12",
         "length": "4",
         "extent": "mV"
     },
     {
         "name": "230mV",
-        "offset": "8952",
+        "offset": "1",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
         "name": "1152mV",
-        "offset": "9624",
+        "offset": "13",
         "length": "4",
         "extent": "mV"
     },
     {
         "name": "307mV",
-        "offset": "9008",
+        "offset": "2",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
         "name": "1228mV",
-        "offset": "9680",
+        "offset": "14",
         "length": "4",
         "extent": "mV"
     },
     {
         "name": "384mV",
-        "offset": "9064",
+        "offset": "3",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
         "name": "1305mV",
-        "offset": "9736",
+        "offset": "15",
         "length": "4",
         "extent": "mV"
     },
     {
         "name": "460mV",
-        "offset": "9120",
+        "offset": "4",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
         "name": "1344mV",
-        "offset": "9792",
+        "offset": "16",
         "length": "4",
         "extent": "mV"
     },
     {
         "name": "537mV",
-        "offset": "9176",
+        "offset": "5",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
         "name": "1382mV",
-        "offset": "9848",
+        "offset": "17",
         "length": "4",
         "extent": "mV"
     },
     {
         "name": "614mV",
-        "offset": "9232",
+        "offset": "6",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
         "name": "1420mV",
-        "offset": "9904",
+        "offset": "18",
         "length": "4",
         "extent": "mV"
     },
     {
         "name": "691mV",
-        "offset": "9288",
+        "offset": "7",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
         "name": "1459mV",
-        "offset": "9960",
+        "offset": "19",
         "length": "4",
         "extent": "mV"
     },
     {
         "name": "768mV",
-        "offset": "9344",
+        "offset": "8",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
         "name": "1497mV",
-        "offset": "10016",
+        "offset": "20",
         "length": "4",
         "extent": "mV"
     },
     {
         "name": "844mV",
-        "offset": "9400",
+        "offset": "9",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
         "name": "1536mV",
-        "offset": "10072",
+        "offset": "21",
         "length": "4",
         "extent": "mV"
     },
     {
         "name": "921mV",
-        "offset": "9456",
+        "offset": "10",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
         "name": "1574mV",
-        "offset": "10128",
+        "offset": "22",
         "length": "4",
         "extent": "mV"
     },
     {
         "name": "998mV",
-        "offset": "9512",
+        "offset": "11",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
         "name": "1612mV",
-        "offset": "10184",
+        "offset": "23",
         "length": "4",
         "extent": "mV"
     },
