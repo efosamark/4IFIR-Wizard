@@ -117,7 +117,7 @@
 	{
 		"name": "GPU Over Mode",
 		"offset": "12344",
-		"length": "3",
+		"length": "4",
 		"extent": " mV"
 	},
 	{
