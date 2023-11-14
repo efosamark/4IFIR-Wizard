@@ -3,19 +3,19 @@
         "name": "`RAM EMQ Mode"
     },
     {
-        "name": "Auto",
+        "name": "Auto - 3",
         "hex": "03"
     },
     {
-        "name": "ECO Stage 1",
+        "name": "ECO Stage 1 - 2",
         "hex": "02"
     },
     {
-        "name": "ECO Stage 2",
+        "name": "ECO Stage 2 - 1",
         "hex": "01"
     },
     {
-        "name": "ECO Stage 3",
-        "hex": "01"
+        "name": "ECO Stage 3 - 0",
+        "hex": "00"
     }
 ]

@@ -3,19 +3,19 @@
         "name": "`RAM DVB Mode"
     },
     {
-        "name": "Auto",
+        "name": "Auto - 3",
         "hex": "030000"
     },
     {
-        "name": "ECO Stage 1",
+        "name": "ECO Stage 1 - 2",
         "hex": "020000"
     },
     {
-        "name": "ECO Stage 2",
+        "name": "ECO Stage 2 - 1",
         "hex": "010000"
     },
     {
-        "name": "ECO Stage 3",
+        "name": "ECO Stage 3 - 0",
         "hex": "000000"
     }
 ]
