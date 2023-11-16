@@ -13,157 +13,157 @@
 		"state": "filler"
 	},
 	{
-        "name": "192mV",
+        "name": "192mhz",
         "offset": "0",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
-        "name": "1075mV",
+        "name": "1075mhz",
         "offset": "12",
         "length": "4",
         "extent": "mV"
     },
     {
-        "name": "230mV",
+        "name": "230mhz",
         "offset": "1",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
-        "name": "1152mV",
+        "name": "1152mhz",
         "offset": "13",
         "length": "4",
         "extent": "mV"
     },
     {
-        "name": "307mV",
+        "name": "307mhz",
         "offset": "2",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
-        "name": "1228mV",
+        "name": "1228mhz",
         "offset": "14",
         "length": "4",
         "extent": "mV"
     },
     {
-        "name": "384mV",
+        "name": "384mhz",
         "offset": "3",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
-        "name": "1305mV",
+        "name": "1305mhz",
         "offset": "15",
         "length": "4",
         "extent": "mV"
     },
     {
-        "name": "460mV",
+        "name": "460mhz",
         "offset": "4",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
-        "name": "1344mV",
+        "name": "1344mhz",
         "offset": "16",
         "length": "4",
         "extent": "mV"
     },
     {
-        "name": "537mV",
+        "name": "537mhz",
         "offset": "5",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
-        "name": "1382mV",
+        "name": "1382mhz",
         "offset": "17",
         "length": "4",
         "extent": "mV"
     },
     {
-        "name": "614mV",
+        "name": "614mhz",
         "offset": "6",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
-        "name": "1420mV",
+        "name": "1420mhz",
         "offset": "18",
         "length": "4",
         "extent": "mV"
     },
     {
-        "name": "691mV",
+        "name": "691mhz",
         "offset": "7",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
-        "name": "1459mV",
+        "name": "1459mhz",
         "offset": "19",
         "length": "4",
         "extent": "mV"
     },
     {
-        "name": "768mV",
+        "name": "768mhz",
         "offset": "8",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
-        "name": "1497mV",
+        "name": "1497mhz",
         "offset": "20",
         "length": "4",
         "extent": "mV"
     },
     {
-        "name": "844mV",
+        "name": "844mhz",
         "offset": "9",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
-        "name": "1536mV",
+        "name": "1536mhz",
         "offset": "21",
         "length": "4",
         "extent": "mV"
     },
     {
-        "name": "921mV",
+        "name": "921mhz",
         "offset": "10",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
-        "name": "1574mV",
+        "name": "1574mhz",
         "offset": "22",
         "length": "4",
         "extent": "mV"
     },
     {
-        "name": "998mV",
+        "name": "998mhz",
         "offset": "11",
         "length": "4",
         "extent": "mV",
         "state": "no_skip"
     },
     {
-        "name": "1612mV",
+        "name": "1612mhz",
         "offset": "23",
         "length": "4",
         "extent": "mV"
