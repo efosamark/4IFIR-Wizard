@@ -1,82 +1,82 @@
 [
     {
-        "name": "710mV",
+        "name": "710 mV",
         "hex": "C60200"
     },
     {
-        "name": "720mV",
+        "name": "720 mV",
         "hex": "D00200"
     },
     {
-        "name": "730mV",
+        "name": "730 mV",
         "hex": "DA0200"
     },
     {
-        "name": "740mV",
+        "name": "740 mV",
         "hex": "E40200"
     },
     {
-        "name": "750mV",
+        "name": "750 mV",
         "hex": "EE0200"
     },
     {
-        "name": "760mV",
+        "name": "760 mV",
         "hex": "F80200"
     },
     {
-        "name": "770mV",
+        "name": "770 mV",
         "hex": "020300"
     },
     {
-        "name": "780mV",
+        "name": "780 mV",
         "hex": "0C0300"
     },
     {
-        "name": "790mV",
+        "name": "790 mV",
         "hex": "160300"
     },
     {
-        "name": "800mV",
+        "name": "800 mV",
         "hex": "200300"
     },
     {
-        "name": "810mV - Default",
+        "name": "810 mV - Default",
         "hex": "2A0300"
     },
     {
-        "name": "820mV",
+        "name": "820 mV",
         "hex": "340300"
     },
     {
-        "name": "830mV",
+        "name": "830 mV",
         "hex": "3E0300"
     },
     {
-        "name": "840mV",
+        "name": "840 mV",
         "hex": "480300"
     },
     {
-        "name": "850mV",
+        "name": "850 mV",
         "hex": "520300"
     },
     {
-        "name": "860mV",
+        "name": "860 mV",
         "hex": "5C0300"
     },
     {
-        "name": "870mV",
+        "name": "870 mV",
         "hex": "660300"
     },
     {
-        "name": "880mV",
+        "name": "880 mV",
         "hex": "700300"
     },
     {
-        "name": "890mV",
+        "name": "890 mV",
         "hex": "7A0300"
     },
     {
-        "name": "900mV",
+        "name": "900 mV",
         "hex": "840300"
     }
 ]

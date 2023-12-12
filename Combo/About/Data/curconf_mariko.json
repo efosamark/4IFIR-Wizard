@@ -51,6 +51,11 @@
 		"length": "1"
 	},
 	{
+		"name": "SpeedShift",
+		"offset": "12336",
+		"length": "3"
+	},
+	{
 		"name": "",
 		"state": "filler"
 	},
