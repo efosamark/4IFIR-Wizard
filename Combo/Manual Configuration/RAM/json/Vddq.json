@@ -1,47 +1,98 @@
 [
     {
-        "name": "550 mV - Unstable",
-        "hex": "706408",
-        "color": "Orange"
+        "name": "250mV - Default",
+        "dec": "250000"
     },
     {
-        "name": "560 mV - Unstable",
-        "hex": "808B08",
-        "color": "Orange"
+        "name": "275mV - Default",
+        "dec": "275000"
     },
     {
-        "name": "570 mV - Unstable",
-        "hex": "90B208",
-        "color": "Orange"
+        "name": "300mV - Default",
+        "dec": "300000"
     },
     {
-        "name": "580 mV - Unstable",
-        "hex": "A0D908",
-        "color": "Orange"
+        "name": "325mV - Default",
+        "dec": "325000"
     },
     {
-        "name": "590 mV - Unstable",
-        "hex": "B00009",
-        "color": "Orange"
+        "name": "350mV - Default",
+        "dec": "350000"
     },
     {
-        "name": "600 mV",
-        "hex": "C02709"
+        "name": "375mV - Default",
+        "dec": "375000"
     },
     {
-        "name": "625 mV",
-        "hex": "688909"
+        "name": "400mV - Default",
+        "dec": "400000"
     },
     {
-        "name": "650 mV",
-        "hex": "10EB09"
+        "name": "425mV - Default",
+        "dec": "425000"
     },
     {
-        "name": "675 mV",
-        "hex": "B84C0A"
+        "name": "450mV - Default",
+        "dec": "450000"
     },
     {
-        "name": "700 mV",
-        "hex": "60AE0A"
+        "name": "475mV - Default",
+        "dec": "475000"
+    },
+    {
+        "name": "500mV - Default",
+        "dec": "500000"
+    },
+    {
+        "name": "525mV - Default",
+        "dec": "525000"
+    },
+    {
+        "name": "550mV - Default",
+        "dec": "550000"
+    },
+    {
+        "name": "575mV - Default",
+        "dec": "575000"
+    },
+    {
+        "name": "600mV - Default",
+        "dec": "600000"
+    },
+    {
+        "name": "625mV - Default",
+        "dec": "625000"
+    },
+    {
+        "name": "650mV - Default",
+        "dec": "650000"
+    },
+    {
+        "name": "675mV - Default",
+        "dec": "675000"
+    },
+    {
+        "name": "700mV - Default",
+        "dec": "700000"
+    },
+    {
+        "name": "725mV - Default",
+        "dec": "725000"
+    },
+    {
+        "name": "750mV - Default",
+        "dec": "750000"
+    },
+    {
+        "name": "775mV - Default",
+        "dec": "775000"
+    },
+    {
+        "name": "800mV - Default",
+        "dec": "800000"
+    },
+    {
+        "name": "825mV - Default",
+        "dec": "825000"
     }
 ]
