@@ -20,25 +20,29 @@
 		"name": "CPU Minimum Voltage",
 		"offset": "48",
 		"length": "3",
-		"extent": " mV"
+		"extent": " mV",
+		"state": "check_extent"
 	},
 	{
 		"name": "CPU Maximum Voltage",
 		"offset": "28",
 		"length": "4",
-		"extent": " mV"
+		"extent": " mV",
+		"state": "check_extent"
 	},
 	{
 		"name": "dCPUv",
 		"offset": "12348",
 		"length": "4",
-		"extent": " mV"
+		"extent": " mV",
+		"state": "check_extent"
 	},
 	{
 		"name": "CPU Boost Clock",
 		"offset": "12",
 		"length": "4",
-		"extent": " MHz"
+		"extent": " MHz",
+		"state": "check_extent"
 	},
 	{
 		"name": "Low MHz Undervolt Mode",
@@ -71,25 +75,29 @@
 		"name": "RAM MHz",
 		"offset": "32",
 		"length": "4",
-		"extent": " MHz"
+		"extent": " MHz",
+		"state": "check_extent"
 	},
 	{
 		"name": "RAM Vddq",
 		"offset": "36",
 		"length": "3",
-		"extent": " mV"
+		"extent": " mV",
+		"state": "check_extent"
 	},
 	{
 		"name": "RAM Vdd2",
 		"offset": "16",
 		"length": "4",
-		"extent": " mV"
+		"extent": " mV",
+		"state": "check_extent"
 	},
 	{
 		"name": "EMC DVB Mode",
 		"offset": "56",
 		"length": "4",
-		"extent": " mV"
+		"extent": " mV",
+		"state": "check_extent"
 	},
 	{
 		"name": "Core Timings",
@@ -117,13 +125,15 @@
 		"name": "GPUv",
 		"offset": "52",
 		"length": "3",
-		"extent": " mV"
+		"extent": " mV",
+		"state": "check_extent"
 	},
 	{
 		"name": "GPU Over Mode",
 		"offset": "12344",
 		"length": "4",
-		"extent": " mV"
+		"extent": " mV",
+		"state": "check_extent"
 	},
 	{
 		"name": "",

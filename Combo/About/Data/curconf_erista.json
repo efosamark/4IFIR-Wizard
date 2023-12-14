@@ -13,10 +13,15 @@
 		"state": "filler"
 	},
 	{
+		"name": "",
+		"state": "filler"
+	},
+	{
 		"name": "CPU Voltage Limit",
 		"offset": "20",
 		"length": "4",
-		"extent": " mV"
+		"extent": " mV",
+		"state": "check_extent"
 	},
 	{
 		"name": "CPU Priority Mode",
@@ -24,20 +29,31 @@
 		"length": "1"
 	},
 	{
+		"name": "",
+		"state": "filler"
+	},
+	{
 		"name": "======== RAM Settings ========",
+		"state": "filler"
+	},
+	{
+		"name": "",
 		"state": "filler"
 	},
 	{
 		"name": "RAM MHz",
 		"offset": "24",
 		"length": "4",
-		"extent": " MHz"
+		"extent": " MHz",
+		"state": "check_extent"
+		
 	},
 	{
 		"name": "RAM Vdd2",
 		"offset": "16",
 		"length": "4",
-		"extent": " mV"
+		"extent": " mV",
+		"state": "check_extent"
 	},
 	{
 		"name": "EMC DVB Table",
